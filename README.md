@@ -1,30 +1,3 @@
-I'm Krishna Prasad
-
-LinkedIn Twitter Gmail
-
-
-
-About me
-
-❤ I love Open Source
-💻 I'm a self-taught web developer
-🎓 I'm a Computer Science student
-🌐 You can see some of my projects here
-💃 If I'm not coding then you'll find me dancing
-🛠  Tech Stack
-C  C++  Python  JavaScript  Learning React  Django  Bootstrap
-HTML  CSS  SQL  Git  GitHub  Markdown
-Visual Studio Code  Illustrator 
-
-Unnati's github stats
-
-
-💻 Most used languages
-
-Krishna's Top Languages
-
-
-<img src="https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif" width="700" >
 
 <h2 align="center">I'm <a href="[https://bio.link/krishnaprasad]">Krishna Prasad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
