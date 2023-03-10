@@ -26,16 +26,16 @@ Krishna's Top Languages
 
 <img src="https://media.giphy.com/media/Zj8HSmFyVwHvPYHYWK/giphy.gif" width="700" >
 
-<h2 align="center">I'm <a href="https://bio.link/unnati">Unnati Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h2 align="center">I'm <a href="[https://bio.link/krishnaprasad]">Krishna Prasad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
   
-<a href="https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pingunnatimishra"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ping_Unnati"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:unnaticse2019@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
+<a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/krishna-prasad-34824a164]"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:kkp.kurra@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
 
-![](https://komarev.com/ghpvc/?username=CodesbyUnnati&color=dc143c)
+![](https://komarev.com/ghpvc/?username=krishna2562&color=dc143c)
 </p>
 
 
@@ -45,7 +45,6 @@ Krishna's Top Languages
 * 💻 I'm a self-taught web developer
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects [here](https://webfolio-unnati.netlify.app/)
-* 📺 I make programming videos on [YouTube](https://www.youtube.com/channel/UCJc_dEGuGABM1Gg8UD8T1pw)
 * 💃 If I'm not coding then you'll find me dancing 
 
 
@@ -70,10 +69,10 @@ Krishna's Top Languages
 
 
    
-   ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
+   ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna2562&show_icons=true&hide_border=true)
 
 <br>
  <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyUnnati&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna2562&langs_count=10&layout=compact#" /></a>
   <br/>
