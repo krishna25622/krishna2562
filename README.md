@@ -42,10 +42,10 @@
 
 
    
-   ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna2562&show_icons=true&hide_border=true)
+   ![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna25622s&show_icons=true&hide_border=true)
 
 <br>
  <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna2562&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Krishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna25622&langs_count=10&layout=compact#" /></a>
   <br/>
